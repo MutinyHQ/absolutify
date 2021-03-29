@@ -1,7 +1,7 @@
 {
   "name": "absolutify",
   "author": "Beau Sorensen <mail@beausorensen.com> (http://github.com/sorensen)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Relative to Absolute URL Replacer",
   "keywords": [
     "url",
@@ -10,10 +10,7 @@
     "absolute",
     "html"
   ],
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/sorensen/absolutify/license"
-  },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/sorensen/absolutify.git"
@@ -31,5 +28,6 @@
     "jshint": "^2.8.0",
     "mocha": "^2.4.5",
     "uglify-js": "2.6.2"
-  }
+  },
+  "types": "types.d.ts"
 }
